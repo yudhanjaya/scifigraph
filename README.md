@@ -2,22 +2,12 @@
 
 A Python tool that reads text files containing science fiction book reviews or summaries and uses AI to extract relationships between books and the economic concepts they explore. The output is a clean, minimal JSON structure perfect for knowledge graph analysis. Built for Edgeryders and the Sci-Fi economics lab, for use primarily on our discussions of books and authors.
 
-## What This Tool Does
+It essentially turns text into this: 
 
-This program helps researchers, academics, and sci-fi enthusiasts analyze economic themes in science fiction literature by:
+<img width="1275" alt="Screenshot 2025-07-01 at 15 41 17" src="https://github.com/user-attachments/assets/7b8fea44-13b3-4c83-9e6f-e03e19731750" />
 
-1. **Reading text files** containing book reviews, summaries, or academic papers about sci-fi novels (up to 7000-ish words, to be safe)
-2. **Using Claude AI** to identify books and economic concepts mentioned in the text
-3. **Creating a knowledge graph** showing which books explore which economic concepts
-4. **Outputting clean JSON** that's easy to analyze, visualize, or import into databases
+The input is a folder containing book reviews, summaries, or academic papers about sci-fi novels (up to 7000-ish words, to be safe)
 
-## Use Cases
-
-- **Academic Research**: Analyze economic themes across sci-fi literature
-- **Content Discovery**: Find books that explore specific economic concepts
-- **Knowledge Graph Analysis**: Build networks of books and concepts
-- **Data Visualization**: Create graphs showing relationships between literature and economics
-- **Research Projects**: Support studies on economics in speculative fiction
 
 ## Key Features
 
@@ -28,6 +18,16 @@ This program helps researchers, academics, and sci-fi enthusiasts analyze econom
 - **Fast Processing**: Uses Claude 3.5 Sonnet for efficient extraction
 - **Clean Output**: Simple JSON with just books and concepts - no unnecessary metadata
 - **Bidirectional Relationships**: Easy to query books by concepts or concepts by books
+
+## Use Cases
+
+This is largely meant for researchers, academics, and sci-fi enthusiasts who want analyze economic themes in science fiction literature. Broadly:
+
+- **Academic Research**: Analyze economic themes across sci-fi literature
+- **Content Discovery**: Find books that explore specific economic concepts
+- **Knowledge Graph Analysis**: Build networks of books and concepts
+- **Data Visualization**: Create graphs showing relationships between literature and economics
+- **Research Projects**: Support studies on economics in speculative fiction
 
 ## Installation
 
