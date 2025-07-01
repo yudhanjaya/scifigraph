@@ -167,30 +167,7 @@ Based on processing reviews of "Another Now" and "Market Forces":
 }
 ```
 
-## How It Works
 
-### Processing Pipeline
-
-1. **File Discovery**: Scans the input folder for supported file types
-2. **Content Extraction**: Extracts clean text from files, handling HTML parsing
-3. **AI Extraction**: Uses Claude AI to identify books and economic concepts
-4. **Entity Normalization**: Deduplicates similar books/concepts using fuzzy matching
-5. **Output Generation**: Creates clean JSON with bidirectional relationships
-
-### AI Processing
-
-The tool uses Anthropic's Claude 3.5 Sonnet model to:
-- Identify science fiction novels mentioned in the text
-- Extract legitimate economic concepts (not just business terms)
-- Associate books with the economic concepts they explore
-- Normalize names and terminology for consistency
-
-### Quality Assurance
-
-- **Fuzzy matching** prevents duplicate entries for similar book titles or concept names
-- **Bidirectional validation** ensures relationships are consistent
-- **Economic concept filtering** focuses on legitimate economic theories and terms
-- **Sci-fi genre filtering** ensures only science fiction novels are included
 
 ## File Structure
 
@@ -204,8 +181,7 @@ The tool uses Anthropic's Claude 3.5 Sonnet model to:
 │   └── ...
 └── scifi_concepts_clean.json   # Generated output
 ```
-
-## Technical Architecture
+## How It Works
 
 ### Core Components
 
