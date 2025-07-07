@@ -55,7 +55,7 @@ Create an `Input/` folder and add your text files containing sci-fi book reviews
 
 ### Basic Usage
 ```bash
-python graphgen_simple.py
+python graphgen.py
 ```
 
 This will:
@@ -66,13 +66,13 @@ This will:
 ### Custom Options
 ```bash
 # Use a different input folder
-python graphgen_simple.py --folder MyFiles
+python graphgen.py --folder MyFiles
 
 # Specify custom output filename
-python graphgen_simple.py --output my_concepts
+python graphgen.py --output my_concepts
 
 # Both options together
-python graphgen_simple.py --folder MyFiles --output my_concepts
+python graphgen.py --folder MyFiles --output my_concepts
 ```
 
 ## Input Requirements
