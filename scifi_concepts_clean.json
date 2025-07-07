@@ -1,0 +1,128 @@
+{
+  "books": [
+    {
+      "title": "Another Now",
+      "author": "Yanis Varoufakis",
+      "concepts": [
+        "Collective Action",
+        "Divestment Strategies",
+        "Financial Market Disruption"
+      ]
+    },
+    {
+      "title": "The Dispossessed",
+      "author": "Ursula Le Guin",
+      "concepts": [
+        "Anarcho-Syndicalism",
+        "Collective Resource Allocation",
+        "Commons",
+        "Degrowth"
+      ]
+    },
+    {
+      "title": "The Ministry for the Future",
+      "author": "Kim Stanley Robinson",
+      "concepts": [
+        "Carbon Tax",
+        "Central Bank Intervention",
+        "Climate Finance",
+        "Nationalization"
+      ]
+    },
+    {
+      "title": "Walkaway",
+      "author": "Cory Doctorow",
+      "concepts": [
+        "DIY Production",
+        "Gift Economy",
+        "Reputation Systems"
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Anarcho-Syndicalism",
+      "books": [
+        "The Dispossessed"
+      ]
+    },
+    {
+      "name": "Carbon Tax",
+      "books": [
+        "The Ministry for the Future"
+      ]
+    },
+    {
+      "name": "Central Bank Intervention",
+      "books": [
+        "The Ministry for the Future"
+      ]
+    },
+    {
+      "name": "Climate Finance",
+      "books": [
+        "The Ministry for the Future"
+      ]
+    },
+    {
+      "name": "Collective Action",
+      "books": [
+        "Another Now"
+      ]
+    },
+    {
+      "name": "Collective Resource Allocation",
+      "books": [
+        "The Dispossessed"
+      ]
+    },
+    {
+      "name": "Commons",
+      "books": [
+        "The Dispossessed"
+      ]
+    },
+    {
+      "name": "DIY Production",
+      "books": [
+        "Walkaway"
+      ]
+    },
+    {
+      "name": "Degrowth",
+      "books": [
+        "The Dispossessed"
+      ]
+    },
+    {
+      "name": "Divestment Strategies",
+      "books": [
+        "Another Now"
+      ]
+    },
+    {
+      "name": "Financial Market Disruption",
+      "books": [
+        "Another Now"
+      ]
+    },
+    {
+      "name": "Gift Economy",
+      "books": [
+        "Walkaway"
+      ]
+    },
+    {
+      "name": "Nationalization",
+      "books": [
+        "The Ministry for the Future"
+      ]
+    },
+    {
+      "name": "Reputation Systems",
+      "books": [
+        "Walkaway"
+      ]
+    }
+  ]
+}
