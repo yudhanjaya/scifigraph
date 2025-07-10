@@ -112,7 +112,7 @@ Return a JSON object with this exact structure:
 }}
 
 Rules:
-1. Only extract books that are clearly science fiction novels
+1. Extract all books in the Input folder
 2. Only include legitimate concepts from economics (not general business terms)
 3. Include both specific economic concepts (e.g. "environmental subsidies") and terms that refer to broader concepts and theories (e.g. "fiscal policy" or "mechanism design") of subdisciplines of economics (e.g. "economic anthropology", "game theory", or "public microeconomics"). 
 4. Use standard economic concept names (e.g., "Universal Basic Income" not "UBI")
