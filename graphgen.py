@@ -113,11 +113,12 @@ Return a JSON object with this exact structure:
 
 Rules:
 1. Only extract books that are clearly science fiction novels
-2. Only include legitimate economic concepts (not general business terms)
-3. Use standard economic concept names (e.g., "Universal Basic Income" not "UBI")
-4. If no clear sci-fi books are found, return empty extractions array
-5. Normalize book titles and author names consistently
-6. Focus on core economic concepts, not peripheral mentions
+2. Only include legitimate concepts from economics (not general business terms)
+3. Include both specific economic concepts (e.g. "environmental subsidies") and terms that refer to broader concepts and theories (e.g. "fiscal policy" or "mechanism design") of subdisciplines of economics (e.g. "economic anthropology", "game theory", or "public microeconomics"). 
+4. Use standard economic concept names (e.g., "Universal Basic Income" not "UBI")
+5. If no clear sci-fi books are found, return empty extractions array
+6. Normalize book titles and author names consistently
+7. Focus on core economic concepts, not peripheral mentions
 
 Text to analyze:
 {text[:15000]}
