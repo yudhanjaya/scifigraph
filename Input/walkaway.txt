@@ -1,0 +1,24 @@
+"Walkaway", by  Cory Doctorow.
+
+In chapter 1, the character of Jacob Redwater takes on the role of standing for capitalism, and standard economic theory.
+
+    Natalie looked grim. “You tell me. That factory we switched on last night. It was worth more as a write-off than it was as a going concern. Some entity that owned it demanded that it sit rotting and useless, even though there were people who wanted what it could make.”
+    “If they wanted the factory, they could buy the factory,” Jacob said. “Then make things and sell them.”
+    “I don’t think those people could afford to buy a factory,” Hubert, Etc said, glancing at Natalie for approval. She nodded minutely.
+    “That’s what capital markets are for,” Jacob said. “If you’ve got a plan for profitably using an asset someone else isn’t using, then you draw up a business plan and take it to investors. If you’re right, one of them will fund you—maybe more than one. Then you sell what you make.”
+    “What if no one invests?” Hubert, Etc said. “I know a ton of zepp startups that died because they couldn’t get money, even though they were making amazing stuff.”
+    Jacob took on the air of someone explaining a complex subject to a child. “If no one wants to invest, that means that you don’t have an idea worth investing in, or you aren’t the right person to execute that idea because you don’t know how to convince people to invest.”
+    “Don’t you see the circularity there?” Natalie said. “If you can’t convince someone to pay to turn on the factory to make things that people need, then the factory shouldn’t be turned on?”
+
+Natalie (later Iceweasel) and Hubert, Etc. (later Etcetera) are Jacob’s opponents in this discussion. Their main argument is that the people who could do something with the abandoned Muji factory have no money to buy the factory. This leads to unsatisfied needs and unused manufacturing capacity: a situation similar to that described by Keynes’s theory of effective demand (but not identical: Keynes has in mind a situation in which unused labour and unmet need coexist).
+
+However, Keynes’s theory is a short term one. In the long run, neoclassical economics has argued, prices of things (like unused factories) and of credit will adjust until the “useless” capacity is scrapped, and the “useful” one finally sold to someone who will use it. Jacob makes exactly this point:
+
+    “Oh, please. Private property is the most productive property. Temporary inefficiencies don’t change that.”
+
+But Natalie and Etcetera are not interested in discussing inefficiencies:
+
+    “Only kleptokrats use terms like ‘temporary inefficiencies’ for wasteful abominations like that Muji factory.”
+
+Natalie sees the Muji factory story as one of artificial scarcity, and artificial scarcity requires an agent that creates the scarcity. In other words, it is a story of power, not of economic exchange between equals. With this passage, Walkaway disposes of mainstream economics altogether. Its economies (both in default and in walkaway) can not be described as a special case of the neoclassical model.
+

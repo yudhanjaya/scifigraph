@@ -1,0 +1,76 @@
+The Ministry for the Future, by Kim Stanley Robinson. 
+
+A near-future fictional account of how human race managed a partial victory against climate change (partial because there are still mass extinctions, mass-lethal heat waves etc.). The novel dedicates a lot of attention to economic aspects, from carbon taxations to the subtraction of essentials like health, education and housing to the logic of the market. A special place is reserved for the largest central banks (Federal Reserve, ECB, Bank of China), who end up being the world’s reluctant saviours. They do so by bailing out struggling banks against equity, which effectively nationalized most commercial banks, and by underwriting a currency that consists in tradeable tokens represented future disbursements against tons of carbon sequestered from the atmosphere. Transactions in this currency are blockchained and de-anonymized, which allows full financial transparency and even a takedown of the tax havens. Eco-terrorism also plays a significant role in driving the transition in the book. We discuss Ministry in this thread. @jolwalton wrote reviews here (focusing on political economy) and here.
+
+With the book discussion coming up, I decided to re-read Ministry, and am now almost done. Here are a few items for discussion. For each one I try to provide one or more quotes from the book: click on the black arrows to reveal the quotes.
+
+I am limiting myself to the economics ones, though I imagine people will want to discuss some of the non-economic points. There are, in fact, some who claim that the main point of Ministry is that you cannot achieve the green transition without substantial violence, and that is not a strictly economic point!
+
+Anyway, here we go. Please feel free to bring to the discussion your own point, of course, this is just an icebreaker! Practical info here.
+
+First discussion point: economics gets a mauling. All along the book, economic orthodoxy is presented as a substantial obstacle to understanding what is really going on with the environmental crisis. Even I am not that negative! The interesting point for debate is whether the dismal science is losing touch with reality, and is in danger that people will simply dismiss it as irrelevant, and what would take its place as a system-level map.
+quotes
+
+    The whole field and discipline of economics, by which we plan and justify what we do as a society, is simply riddled with absences, contradictions, logical flaws, and most important of all, false axioms and false goals. (p. 166)
+
+    Extinctions and ocean warming can’t be fixed no matter how much money future people have, so economics as practiced misses a fundamental aspect of reality. (p. 173)
+
+This is due to the discipline’s complacency in cloaking its practitioners’ ideological biases in the mantle of pretend objectivity:
+
+    macroeconomics was no longer so very clear on the ultimate effects of quantitative easing, given that the evidence from the past half century could be interpreted either way. That this debate was a clear sign that macroeconomics as a field was ideological to the point of astrology was often asserted by people in all the other social sciences, but economists were still very skilled at ignoring outside criticisms of their field, and now they forged on contradicting themselves as confidently as ever. (p. 343)
+
+    What a science! They worked all over the world (including in the Ministry for the Future’s offices) trying to calculate the gains and losses of this event in some way that could be entered into a single balance sheet and defended. But it couldn’t be done, except in ways so filled with assumptions that each estimate was revealed to be an ideological statement of the viewer’s priorities and values. A speculative fiction. (p. 344)
+
+Second discussion point: the macro policies of the transition. In Ministry, India is the state that leads humanity towards the green transition. The Indian people are traumatized into action by a heat wave that kills 20 million people in Uttar Pradesh, and they sack their whole political class and get to work. The rest of the world will then follow, with more or less foot-dragging depending on specifics. Some of these Indian policies are not economic policies, of course – for example there is an effort directed towards regenerative agriculture – but some are. The ones I could identify:
+
+    Nationalization of the whole energy infrastructure.
+
+quote
+
+    India’s electrical power companies were nationalized where they weren’t already, and a vast force was put to work shutting down coal-fired power plants and building wind and solar plants, and free-river hydro, and non-battery electrical storage systems to supplement the growing power of battery storage. (p. 25)
+
+    AOC’s Civil Climate Corps, or something similar. The quote above seems to allude to that. And that, in turn, is an idea very close to MMT’s flagship policy, the federal job guarantee.
+    Factor substitution, replacing capital- and natural resources-intensive production techniques with labor intensive ones.
+
+quote
+
+    The new agriculture is also labor intensive, as to a certain extent people must replace the power of fossil fuels and pay close attention to small biomes, and of course we have that labor power and that close attention. […] Completing the clean electrification of the country is being accomplished by construction of massive solar power arrays, and then electricity-storing facilities, and a refurbished national grid. This again has been labor intensive, but India has lots of people. And lots of sunlight. And lots of land. (p.126)
+
+Third discussion point: Monetary policy. It occupies a central role in Ministry. The big central banks rule the world of the book, as arguably our own. The monetary policies I could spot:
+* Modern Monetary Theory, explicitly endorsed. It becomes mainstream in the 2030s.
+quote
+
+    Enough governments were convinced by MMT to try it. That it influenced so much policy through the late thirties was regarded as a sign either of progress or of desperate fantasy solutions. Similarly split responses had of course greeted Keynesian policies exactly a century before, so for some observers the interesting thing became to watch the next steps, and see whether this time around, having reiterated in this realm the twentieth century’s thirties, they would manage to avoid reiterating its forties. (p. 366)
+
+    Carbon quantitative easing. The Ministry for the Future persuades the central banks of China, the USA, and the EU to lead a coalition of central banks. This coalition issues a new currency, the carboni, that is backed by carbon sequestration (or foregone emission). These are “backed by hundred-year bonds with guaranteed rates of return, underwritten by all the central banks working together” (p. 173).
+
+quotes
+
+    So really this is just a form of quantitative easing. Yes. But directed, targeted. Meaning the creation, the first spending of the new money, would have been specifically aimed at carbon reduction. That reduction is what makes the new money in the first place. The Chen papers sometimes call it CQE, carbon quantitative easing. (p. 174)
+
+    Normal currencies float against each other in the exchange markets, but if one currency is guaranteed to rise in value over time no matter what, then it becomes more valuable to investors. It will always stay strong in the currency market because it’s got a time stamp guarantee of a rise in value. The carbon coin designed in that way would eventually probably replace the US dollar as the world’s benchmark currency, which would strengthen it even more. (p. 176)
+
+    The upshot of these policy implementation decisions was that the oil companies and petro-states were being paid in proportion to their stranded assets, but over time, and only for doing carbon-negative work, as defined and measured by the Paris Agreement standards and certification teams. The young staffs of the central banks were all quite proud of this arrangement, which they had concocted over the years in an effort save the carbon coin, and then watched as their bosses approved and implemented it. Those staff reunion parties were raucous to the point of almost scandalizing staid old Zurich. (p. 480).
+
+    Traceable money. The carboni and the main fiat currencies are all blockchained and made fully traceable, and absolutely not anonymous. Tax havens are wiped out: when a transaction is deemed illegal, the currency units transacted are erased from existence.
+
+quote
+
+    If all fiat money everywhere went digital and got recorded in block-chains, so that its location and transaction history could be traced and seen by all, then illegal tax dodges could be driven into non-existence by sanction, embargo, seizure, and erasure. (p. 334)
+
+Fourth discussion point: other policies.
+
+    Carbon tax. The world of Ministry has a carbon tax to reinforce the carbon quantitative easing, but I could not find a lot of specifics.
+    Water as a commons. The State of California implements legislation to manage water. As part of it, it is subtracted to the realm of market exchange.
+
+quote
+
+    To help accomplish all this they had passed a law, the Sustainable Groundwater Management Act, which they called “Sigma.” In effect it had created a new commons, which was water itself, owned by all and managed together. Records were kept, prices were set, allotments were dispensed; parts of the state had been taken out of agricultural production. In drought years they pumped up groundwater, keeping close track, conserving all they could; in flood years they caught water in the valley and helped it to sink into the basin. (p. 185)
+
+    Necessities as public goods. KSR makes a case that any reasonable attempt at solving the environmental crisis needs an outright ban to sell, or profit from, providing people with necessities.
+
+quote
+
+    The necessities are food, water, shelter, clothing, electricity, health care, and education. All these are human rights, all are public goods, all are never to be subjected to appropriation, exploitation, and profit. It’s as simple as that. (p. 409).
+
+I’ll stop here, but there are many, many more ideas in the book… looking forward to the discussion.
