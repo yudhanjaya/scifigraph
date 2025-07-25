@@ -57,7 +57,7 @@ Create an `Input/` folder and add your text files containing sci-fi book reviews
 ```bash
 python graphgen.py
 ```
-(Depending on your Python setup, you might have to use instead
+Depending on your Python setup, you might have to use instead
 
 ```bash
 python3 graphgen.py
