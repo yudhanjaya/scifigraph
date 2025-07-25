@@ -57,7 +57,11 @@ Create an `Input/` folder and add your text files containing sci-fi book reviews
 ```bash
 python graphgen.py
 ```
+(Depending on your Python setup, you might have to use instead
 
+```bash
+python3 graphgen.py
+```
 This will:
 - Process all files in the `Input/` folder
 - Generate `scifi_concepts_clean.json` with the extracted knowledge graph
@@ -66,13 +70,13 @@ This will:
 ### Custom Options
 ```bash
 # Use a different input folder
-python graphgen.py --folder MyFiles
+python3 graphgen.py --folder MyFiles
 
 # Specify custom output filename
-python graphgen.py --output my_concepts
+python3 graphgen.py --output my_concepts
 
 # Both options together
-python graphgen.py --folder MyFiles --output my_concepts
+python3 graphgen.py --folder MyFiles --output my_concepts
 ```
 
 ## Input Requirements
