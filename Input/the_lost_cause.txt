@@ -1,0 +1,50 @@
+The Lost Cause, by Cory Doctorow. 
+
+It is a depiction of a near-future America ravaged by climate change, where a progressive presidency (later defeated in presidential elections, after two terms) has instituted a robust Green New Deal. This comes with a Job guarantee, the flagship policy of Modern Monetary Theory: people in the novella always have the option to take a public sector job, which normally would be some sort of nature reclamation-, public housing-, or social work. This policy, however, is opposed by American conservatives. Several characters have served or currently serve in the the United Nations’ Blue Helmets, which have taken on the purpose of a combat engineering corps, and deployed on large projects of relief from climate disasters or ecosystem regeneration. 
+
+Hey folks, anyone else read The Lost Cause recently, by Cory Doctorow?
+
+It’s linked below, and I now think it’s one of the best ways into discussions about climate informed sci-fi economics and solar punk - more so than Ministry for the Future. Without giving away too many spoilers, I’ll list a few things that I think make it worthy of discussion:
+
+    it’s set in the near enough future to feel plausible, but just far enough out for the medium term impact of some slower moving decisions to have played out such that we can see their impact on a society
+    it covers a bunch of things about economics being discussed right now, from the ultra-proprietarianist models of cryptocurrencies, to modern monetary theory, and tax policy vs issuing infinite bonds to pay for stuff
+    it includes fairly detailed stuff about active local political engagement, as a counterweight to deploying capital automatically being the most powerful form of ‘speech’
+    it features a post tech-break-up internet, as well as novel uses of libraries based on existing trends we see in isolated pockets of the future right now
+    as you might expect from a story set about 15 years into the future, climate changes plays a significant part in the plot
+
+It’s also a total page turner, and I really enjoyed it. I’m looking for people to talk about it with.
+
+
+
+    anyone else read The Lost Cause recently, by Cory Doctorow?
+
+Yep, read it as soon as it was out. And you are right, I am going to add it to the wiki of Economic Sci-Fi work.
+
+I think on this one Cory was more interested in the politics than in the economics proper: my main takeaway is his depiction of the MAGA crowd as a permanent drain on the climate change mitigation/adaptation effort.
+
+In terms of economics, the world of The Lost Cause is like our own, with two differences:
+
+    A robust Green New Deal – by which I mean the American (Sanders, AOC) version of a bundle of investments in decarbonization and social justice, mostly in the form of Rooseveltian good jobs and free health care. I do not mean the watered-down, tech-centric EU version.
+    A part of this – which, by the way, I don’t recall being present in Doctorow’s previous work – is a job guarantee. This is then flagship policy of Modern Monetary Theory, so it tells us that Cory has been reading Stephanie Kelton, Randy Wray etc. This has obvious implications for the handling of public finance and inflation in the world of TLC.
+
+Another really interesting feature of TLC, which is an economic feature only in a broad sense, is the role of the Blue Helmets. This term is normally shorthand for the United Nations Peacekeeping Forces, but in TLC Blue Helmets have been repurposed for large climate change mitigation/adaptation projects, while maintaining their military structure (you see this in the use of words like “deploy”). I guess this means that Doctorow believes he can not come up with a believable account of a global Green New Deal without imagining a much more muscular role of our formal global governance structures (the UNO). For a discussion of the economic interpretation of “believable worlds” see here.
+
+
+
+Thanks for the response Alberto - I hadn’t really spent that much time thinking about the role of the Blue Helmets in the book, but I think you’re right, it deserves more attention.
+
+I found the idea of them being repurposed for adaptation work fairly plausible:
+
+    the spending on climate adaptation historically has been tiny compared to mitigation, and it’s likely to need to increase significantly over the coming few years, but adaptation work isn’t easy to make money off (and therefore fund with private money) the way renewable energy might be
+    the main funders of the blue helmet missions seem to be the largest global powers, based on that linked wikipedia page. In world where the impacts of climate don’t respect borders, it could be seen as a way to get help to places from a somewhat more neutral force than the US or China military, for example.
+    Because so few people know about the Blue Helmets, it provides a convenient excuse for Cory to draw upon his experience living in London for years as well for a richer plot…
+
+One thing that didn’t seem to be resolved in the book for me though was the issue raised by Ana Lucia, about printing endless government bonds as a way to raise debt for funding public sector investments - I’m (slowly) working my through reading Piketty’s Capital and Ideology, and makes a similar case that wealth transfer from public to private sector through bond issuances, while expedient, in the long run raises problems of its own - as increasing amount of public capital end up being owned by a concentrated part of the private sector rather than wider society.
+
+I have bunch more to read in Capital and Ideology though, so there maybe some more commentary on MMT. For anyone else reading, I’d welcome pointers to other novels that take place in a post MMT world.
+
+
+    One thing that didn’t seem to be resolved in the book for me though was the issue raised by Ana Lucia, about printing endless government bonds as a way to raise debt for funding public sector investments
+
+That is resolved, by modern monetary theory. The solution is to not issue bonds, but create monetary mass directly via the accounts of the Treasury with the Central Bank (and tightly control inflation, which requires good planning instruments). Stephanie Kelton’s The Deficit Myth is a good book aimed at the general public about this.
+
