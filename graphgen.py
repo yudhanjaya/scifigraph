@@ -114,11 +114,12 @@ Return a JSON object with this exact structure:
 Rules:
 1. Extract all books in the Input folder
 2. Only include legitimate concepts from economics (not general business terms)
-3. Include both specific economic concepts (e.g. "environmental subsidies") and terms that refer to broader concepts and theories (e.g. "fiscal policy" or "mechanism design") of subdisciplines of economics (e.g. "economic anthropology", "game theory", or "public microeconomics"). 
+3. Include both specific economic concepts (e.g. "environmental subsidies") and terms that refer to broader concepts and theories (e.g. "fiscal policy" or "mechanism design") of subdisciplines of economics (e.g. "economic anthropology", "game theory", or "public microeconomics"). When including a specific economics concept, also include the broader concept or subdiscipline in which the specific economics concept is nested (e.g. both "prisoner's dilemma" and "game theory").
 4. Use standard economic concept names (e.g., "Universal Basic Income" not "UBI")
 5. If no clear sci-fi books are found, return empty extractions array
 6. Normalize book titles and author names consistently
 7. Focus on core economic concepts, not peripheral mentions
+8. Only use the word "economics" for subdisciplines, such as "labour economics" or "environmental economics", or models, such as "neoclassical economics". Do not attach the word "economics" to nouns otherwise. For example, if you encounter the expression "the economics of open data", return "open data". 
 
 Text to analyze:
 {text[:15000]}
@@ -158,7 +159,7 @@ Text to analyze:
 class EntityNormalizer:
     """Handles deduplication and normalization of books and concepts"""
     
-    def __init__(self, similarity_threshold: int = 85):
+    def __init__(self, similarity_threshold: int = 75):
         self.similarity_threshold = similarity_threshold
         self.books: Dict[str, Book] = {}
         self.concepts: Dict[str, EconomicConcept] = {}
