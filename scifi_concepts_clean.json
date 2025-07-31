@@ -1,0 +1,1206 @@
+{
+  "books": [
+    {
+      "title": "2312",
+      "author": "Kim Stanley Robinson",
+      "concepts": [
+        "Commons Exchange",
+        "Cooperative Economics",
+        "Late-Stage Capitalism",
+        "Marginal Markets",
+        "Mutual Support Economic Systems",
+        "Networked Economic Organization",
+        "Planetary Economy",
+        "Social Democratic Economy",
+        "Treaty-Based Economic Associations"
+      ]
+    },
+    {
+      "title": "A Half-Built Garden",
+      "author": "Ruthanna Emrys",
+      "concepts": [
+        "Collaborative Governance",
+        "Commons-Based Economy",
+        "Late-Stage Capitalism",
+        "Planetary Economy",
+        "Public Infrastructure"
+      ]
+    },
+    {
+      "title": "Another Now",
+      "author": "Yanis Varoufakis",
+      "concepts": [
+        "Class Struggle",
+        "Financial Crisis",
+        "Financialization",
+        "Game Theory",
+        "Late-Stage Capitalism",
+        "Pension Fund Divestment",
+        "Securitization"
+      ]
+    },
+    {
+      "title": "Autonomous",
+      "author": "Annalee Newitz",
+      "concepts": [
+        "Collaborative Governance",
+        "Intellectual Property Rights",
+        "Knowledge Economics",
+        "Labour Markets",
+        "Property Rights"
+      ]
+    },
+    {
+      "title": "Distraction",
+      "author": "Bruce Sterling",
+      "concepts": [
+        "Labour Market Segmentation",
+        "Marginal Economic Participation",
+        "Reputation Economy",
+        "Technical Innovation",
+        "Technological Disruption"
+      ]
+    },
+    {
+      "title": "Freedom TM",
+      "author": "Daniel Suarez",
+      "concepts": [
+        "Barter Economy",
+        "Capital Extraction",
+        "Capitalism",
+        "Efficiency",
+        "Intellectual Property Rights",
+        "Market Mechanisms",
+        "Price Determination"
+      ]
+    },
+    {
+      "title": "Gamechanger",
+      "author": "L. X. Beckett",
+      "concepts": [
+        "Carbon Currency",
+        "Environmental Economics",
+        "Public Goods",
+        "Rationing",
+        "Resource Allocation",
+        "Social Credit System",
+        "Universal Basic Services"
+      ]
+    },
+    {
+      "title": "Makers",
+      "author": "Cory Doctorow",
+      "concepts": [
+        "Arrow's Paradox",
+        "Bertrand Competition",
+        "Creative Destruction",
+        "Industrial Organization",
+        "Schumpeterian Economics",
+        "Technical Innovation"
+      ]
+    },
+    {
+      "title": "MetaGame",
+      "author": "Sam Landstrom",
+      "concepts": [
+        "Coase Theorem",
+        "Flow Theory",
+        "Gentrification",
+        "Organizational Economics",
+        "Supply and Demand",
+        "Transaction Cost Economics"
+      ]
+    },
+    {
+      "title": "New York 2140",
+      "author": "Kim Stanley Robinson",
+      "concepts": [
+        "Alternative Currencies",
+        "Barter Economy",
+        "Capital Flight",
+        "Cooperative Economics",
+        "Gift Economy",
+        "Late-Stage Capitalism",
+        "Neighborhood Associations",
+        "Real Estate Valuation",
+        "Technical Innovation",
+        "Urban Migration"
+      ]
+    },
+    {
+      "title": "Numbercaste",
+      "author": "Yudhanjaya Wijeratne",
+      "concepts": [
+        "Algorithmic Reputation Systems",
+        "Network Effects",
+        "Social Capital",
+        "Social Network Analysis",
+        "Social Stratification",
+        "Upward Mobility"
+      ]
+    },
+    {
+      "title": "Our Shared Storm: A Movel of Five Climate Futures",
+      "author": "Andrew Dana Hudson",
+      "concepts": [
+        "Capitalism",
+        "Climate Policy",
+        "Decarbonization",
+        "Income Inequality",
+        "Resource Allocation",
+        "Shared Socioeconomic Pathways"
+      ]
+    },
+    {
+      "title": "Red Plenty",
+      "author": "Francis Spufford",
+      "concepts": [
+        "Centralized Economic Planning",
+        "Embeddedness",
+        "Gift Economy",
+        "Informal Economic Networks",
+        "Market Socialism",
+        "Opportunity Cost",
+        "Shadow Pricing",
+        "Socialist Calculation Debate"
+      ]
+    },
+    {
+      "title": "Scholomance Trilogy",
+      "author": "Naomi Novik",
+      "concepts": [
+        "Degrowth",
+        "Exploitation",
+        "Game Theory",
+        "Human Capital",
+        "Labour Theory of Value",
+        "Negative Externalities",
+        "Prisoner's Dilemma",
+        "Production Function",
+        "Resource Allocation",
+        "Scarcity",
+        "Sufficiency Economics"
+      ]
+    },
+    {
+      "title": "Stealing Worlds",
+      "author": "Karl Schroeder",
+      "concepts": [
+        "Blockchain",
+        "Debt slavery",
+        "Decentralized Autonomous Organizations",
+        "In-game economies",
+        "Prosocial behavior incentives",
+        "Resource Allocation",
+        "Smart contracts",
+        "Social credit scoring",
+        "Surveillance economy",
+        "Virtual currencies"
+      ]
+    },
+    {
+      "title": "The Caryatids",
+      "author": "Bruce Sterling",
+      "concepts": [
+        "Capitalism",
+        "Commons-based Peer Production",
+        "Population Economics",
+        "Resource Allocation",
+        "Technical Innovation"
+      ]
+    },
+    {
+      "title": "The Culture Series",
+      "author": "Iain Banks",
+      "concepts": [
+        "Economic possibilities",
+        "Economic productivity",
+        "Leisure economy",
+        "Post-scarcity economics"
+      ]
+    },
+    {
+      "title": "The Dispossessed",
+      "author": "Ursula Le Guin",
+      "concepts": [
+        "Anarcho-syndicalism",
+        "Commons",
+        "Degrowth",
+        "Ecological Economics",
+        "Incentive Compatibility",
+        "Microeconomic Theory",
+        "Property Rights",
+        "Resource Allocation",
+        "Social Pressure"
+      ]
+    },
+    {
+      "title": "The Lost Cause",
+      "author": "Cory Doctorow",
+      "concepts": [
+        "Climate Adaptation Economics",
+        "Fiscal Policy",
+        "Government Bonds",
+        "Green New Deal",
+        "Inflation Control",
+        "Job Guarantee",
+        "Modern Monetary Theory",
+        "Monetary Policy",
+        "Public Finance",
+        "Public Sector Investment",
+        "Social Justice Economics"
+      ]
+    },
+    {
+      "title": "The Ministry for the Future",
+      "author": "Kim Stanley Robinson",
+      "concepts": [
+        "Blockchain Monetary Systems",
+        "Carbon Tax",
+        "Central Bank Policy",
+        "Factor Substitution",
+        "Financialization",
+        "Job Guarantee",
+        "Modern Monetary Theory",
+        "Public Goods",
+        "Quantitative Easing",
+        "Tax Haven Elimination",
+        "Water Commons"
+      ]
+    },
+    {
+      "title": "The Moon is a Harsh Mistress",
+      "author": "Robert A. Heinlein",
+      "concepts": [
+        "Barter Economy",
+        "Commodity Trading",
+        "Free Market Economics",
+        "Private Goods",
+        "Resource Allocation"
+      ]
+    },
+    {
+      "title": "The Terraformers",
+      "author": "Annalee Newitz",
+      "concepts": [
+        "Corporate Investment Strategies",
+        "Gentrification",
+        "Land Development",
+        "Property Rights",
+        "Public Sector Resource Management",
+        "Real Estate Investment"
+      ]
+    },
+    {
+      "title": "Utopia Five",
+      "author": "A. E. Currie",
+      "concepts": [
+        "Agricultural Transformation",
+        "Barter Economy",
+        "Financialization",
+        "Resource Scarcity",
+        "Social Credit System",
+        "Surveillance Capitalism"
+      ]
+    },
+    {
+      "title": "Walkaway",
+      "author": "Cory Doctorow",
+      "concepts": [
+        "Artificial Scarcity",
+        "Ecological Economics",
+        "Effective Demand",
+        "Investment Theory",
+        "Keynesian Economics",
+        "Marginal Markets",
+        "Private Property"
+      ]
+    },
+    {
+      "title": "Webs of Varok",
+      "author": "Cary Neeper",
+      "concepts": [
+        "Economic Restrictions",
+        "Productivity Growth",
+        "Steady State Economy"
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Agricultural Transformation",
+      "books": [
+        "Utopia Five"
+      ]
+    },
+    {
+      "name": "Algorithmic Reputation Systems",
+      "books": [
+        "Numbercaste"
+      ]
+    },
+    {
+      "name": "Alternative Currencies",
+      "books": [
+        "New York 2140"
+      ]
+    },
+    {
+      "name": "Anarcho-syndicalism",
+      "books": [
+        "The Dispossessed"
+      ]
+    },
+    {
+      "name": "Arrow's Paradox",
+      "books": [
+        "Makers"
+      ]
+    },
+    {
+      "name": "Artificial Scarcity",
+      "books": [
+        "Walkaway"
+      ]
+    },
+    {
+      "name": "Barter Economy",
+      "books": [
+        "Freedom TM",
+        "New York 2140",
+        "The Moon is a Harsh Mistress",
+        "Utopia Five"
+      ]
+    },
+    {
+      "name": "Bertrand Competition",
+      "books": [
+        "Makers"
+      ]
+    },
+    {
+      "name": "Blockchain",
+      "books": [
+        "Stealing Worlds"
+      ]
+    },
+    {
+      "name": "Blockchain Monetary Systems",
+      "books": [
+        "The Ministry for the Future"
+      ]
+    },
+    {
+      "name": "Capital Extraction",
+      "books": [
+        "Freedom TM"
+      ]
+    },
+    {
+      "name": "Capital Flight",
+      "books": [
+        "New York 2140"
+      ]
+    },
+    {
+      "name": "Capitalism",
+      "books": [
+        "Freedom TM",
+        "Our Shared Storm: A Movel of Five Climate Futures",
+        "The Caryatids"
+      ]
+    },
+    {
+      "name": "Carbon Currency",
+      "books": [
+        "Gamechanger"
+      ]
+    },
+    {
+      "name": "Carbon Tax",
+      "books": [
+        "The Ministry for the Future"
+      ]
+    },
+    {
+      "name": "Central Bank Policy",
+      "books": [
+        "The Ministry for the Future"
+      ]
+    },
+    {
+      "name": "Centralized Economic Planning",
+      "books": [
+        "Red Plenty"
+      ]
+    },
+    {
+      "name": "Class Struggle",
+      "books": [
+        "Another Now"
+      ]
+    },
+    {
+      "name": "Climate Adaptation Economics",
+      "books": [
+        "The Lost Cause"
+      ]
+    },
+    {
+      "name": "Climate Policy",
+      "books": [
+        "Our Shared Storm: A Movel of Five Climate Futures"
+      ]
+    },
+    {
+      "name": "Coase Theorem",
+      "books": [
+        "MetaGame"
+      ]
+    },
+    {
+      "name": "Collaborative Governance",
+      "books": [
+        "A Half-Built Garden",
+        "Autonomous"
+      ]
+    },
+    {
+      "name": "Commodity Trading",
+      "books": [
+        "The Moon is a Harsh Mistress"
+      ]
+    },
+    {
+      "name": "Commons",
+      "books": [
+        "The Dispossessed"
+      ]
+    },
+    {
+      "name": "Commons Exchange",
+      "books": [
+        "2312"
+      ]
+    },
+    {
+      "name": "Commons-Based Economy",
+      "books": [
+        "A Half-Built Garden"
+      ]
+    },
+    {
+      "name": "Commons-based Peer Production",
+      "books": [
+        "The Caryatids"
+      ]
+    },
+    {
+      "name": "Cooperative Economics",
+      "books": [
+        "2312",
+        "New York 2140"
+      ]
+    },
+    {
+      "name": "Corporate Investment Strategies",
+      "books": [
+        "The Terraformers"
+      ]
+    },
+    {
+      "name": "Creative Destruction",
+      "books": [
+        "Makers"
+      ]
+    },
+    {
+      "name": "Debt slavery",
+      "books": [
+        "Stealing Worlds"
+      ]
+    },
+    {
+      "name": "Decarbonization",
+      "books": [
+        "Our Shared Storm: A Movel of Five Climate Futures"
+      ]
+    },
+    {
+      "name": "Decentralized Autonomous Organizations",
+      "books": [
+        "Stealing Worlds"
+      ]
+    },
+    {
+      "name": "Degrowth",
+      "books": [
+        "Scholomance Trilogy",
+        "The Dispossessed"
+      ]
+    },
+    {
+      "name": "Ecological Economics",
+      "books": [
+        "The Dispossessed",
+        "Walkaway"
+      ]
+    },
+    {
+      "name": "Economic Restrictions",
+      "books": [
+        "Webs of Varok"
+      ]
+    },
+    {
+      "name": "Economic possibilities",
+      "books": [
+        "The Culture Series"
+      ]
+    },
+    {
+      "name": "Economic productivity",
+      "books": [
+        "The Culture Series"
+      ]
+    },
+    {
+      "name": "Effective Demand",
+      "books": [
+        "Walkaway"
+      ]
+    },
+    {
+      "name": "Efficiency",
+      "books": [
+        "Freedom TM"
+      ]
+    },
+    {
+      "name": "Embeddedness",
+      "books": [
+        "Red Plenty"
+      ]
+    },
+    {
+      "name": "Environmental Economics",
+      "books": [
+        "Gamechanger"
+      ]
+    },
+    {
+      "name": "Exploitation",
+      "books": [
+        "Scholomance Trilogy"
+      ]
+    },
+    {
+      "name": "Factor Substitution",
+      "books": [
+        "The Ministry for the Future"
+      ]
+    },
+    {
+      "name": "Financial Crisis",
+      "books": [
+        "Another Now"
+      ]
+    },
+    {
+      "name": "Financialization",
+      "books": [
+        "Another Now",
+        "The Ministry for the Future",
+        "Utopia Five"
+      ]
+    },
+    {
+      "name": "Fiscal Policy",
+      "books": [
+        "The Lost Cause"
+      ]
+    },
+    {
+      "name": "Flow Theory",
+      "books": [
+        "MetaGame"
+      ]
+    },
+    {
+      "name": "Free Market Economics",
+      "books": [
+        "The Moon is a Harsh Mistress"
+      ]
+    },
+    {
+      "name": "Game Theory",
+      "books": [
+        "Another Now",
+        "Scholomance Trilogy"
+      ]
+    },
+    {
+      "name": "Gentrification",
+      "books": [
+        "MetaGame",
+        "The Terraformers"
+      ]
+    },
+    {
+      "name": "Gift Economy",
+      "books": [
+        "New York 2140",
+        "Red Plenty"
+      ]
+    },
+    {
+      "name": "Government Bonds",
+      "books": [
+        "The Lost Cause"
+      ]
+    },
+    {
+      "name": "Green New Deal",
+      "books": [
+        "The Lost Cause"
+      ]
+    },
+    {
+      "name": "Human Capital",
+      "books": [
+        "Scholomance Trilogy"
+      ]
+    },
+    {
+      "name": "In-game economies",
+      "books": [
+        "Stealing Worlds"
+      ]
+    },
+    {
+      "name": "Incentive Compatibility",
+      "books": [
+        "The Dispossessed"
+      ]
+    },
+    {
+      "name": "Income Inequality",
+      "books": [
+        "Our Shared Storm: A Movel of Five Climate Futures"
+      ]
+    },
+    {
+      "name": "Industrial Organization",
+      "books": [
+        "Makers"
+      ]
+    },
+    {
+      "name": "Inflation Control",
+      "books": [
+        "The Lost Cause"
+      ]
+    },
+    {
+      "name": "Informal Economic Networks",
+      "books": [
+        "Red Plenty"
+      ]
+    },
+    {
+      "name": "Intellectual Property Rights",
+      "books": [
+        "Autonomous",
+        "Freedom TM"
+      ]
+    },
+    {
+      "name": "Investment Theory",
+      "books": [
+        "Walkaway"
+      ]
+    },
+    {
+      "name": "Job Guarantee",
+      "books": [
+        "The Lost Cause",
+        "The Ministry for the Future"
+      ]
+    },
+    {
+      "name": "Keynesian Economics",
+      "books": [
+        "Walkaway"
+      ]
+    },
+    {
+      "name": "Knowledge Economics",
+      "books": [
+        "Autonomous"
+      ]
+    },
+    {
+      "name": "Labour Market Segmentation",
+      "books": [
+        "Distraction"
+      ]
+    },
+    {
+      "name": "Labour Markets",
+      "books": [
+        "Autonomous"
+      ]
+    },
+    {
+      "name": "Labour Theory of Value",
+      "books": [
+        "Scholomance Trilogy"
+      ]
+    },
+    {
+      "name": "Land Development",
+      "books": [
+        "The Terraformers"
+      ]
+    },
+    {
+      "name": "Late-Stage Capitalism",
+      "books": [
+        "2312",
+        "A Half-Built Garden",
+        "Another Now",
+        "New York 2140"
+      ]
+    },
+    {
+      "name": "Leisure economy",
+      "books": [
+        "The Culture Series"
+      ]
+    },
+    {
+      "name": "Marginal Economic Participation",
+      "books": [
+        "Distraction"
+      ]
+    },
+    {
+      "name": "Marginal Markets",
+      "books": [
+        "2312",
+        "Walkaway"
+      ]
+    },
+    {
+      "name": "Market Mechanisms",
+      "books": [
+        "Freedom TM"
+      ]
+    },
+    {
+      "name": "Market Socialism",
+      "books": [
+        "Red Plenty"
+      ]
+    },
+    {
+      "name": "Microeconomic Theory",
+      "books": [
+        "The Dispossessed"
+      ]
+    },
+    {
+      "name": "Modern Monetary Theory",
+      "books": [
+        "The Lost Cause",
+        "The Ministry for the Future"
+      ]
+    },
+    {
+      "name": "Monetary Policy",
+      "books": [
+        "The Lost Cause"
+      ]
+    },
+    {
+      "name": "Mutual Support Economic Systems",
+      "books": [
+        "2312"
+      ]
+    },
+    {
+      "name": "Negative Externalities",
+      "books": [
+        "Scholomance Trilogy"
+      ]
+    },
+    {
+      "name": "Neighborhood Associations",
+      "books": [
+        "New York 2140"
+      ]
+    },
+    {
+      "name": "Network Effects",
+      "books": [
+        "Numbercaste"
+      ]
+    },
+    {
+      "name": "Networked Economic Organization",
+      "books": [
+        "2312"
+      ]
+    },
+    {
+      "name": "Opportunity Cost",
+      "books": [
+        "Red Plenty"
+      ]
+    },
+    {
+      "name": "Organizational Economics",
+      "books": [
+        "MetaGame"
+      ]
+    },
+    {
+      "name": "Pension Fund Divestment",
+      "books": [
+        "Another Now"
+      ]
+    },
+    {
+      "name": "Planetary Economy",
+      "books": [
+        "2312",
+        "A Half-Built Garden"
+      ]
+    },
+    {
+      "name": "Population Economics",
+      "books": [
+        "The Caryatids"
+      ]
+    },
+    {
+      "name": "Post-scarcity economics",
+      "books": [
+        "The Culture Series"
+      ]
+    },
+    {
+      "name": "Price Determination",
+      "books": [
+        "Freedom TM"
+      ]
+    },
+    {
+      "name": "Prisoner's Dilemma",
+      "books": [
+        "Scholomance Trilogy"
+      ]
+    },
+    {
+      "name": "Private Goods",
+      "books": [
+        "The Moon is a Harsh Mistress"
+      ]
+    },
+    {
+      "name": "Private Property",
+      "books": [
+        "Walkaway"
+      ]
+    },
+    {
+      "name": "Production Function",
+      "books": [
+        "Scholomance Trilogy"
+      ]
+    },
+    {
+      "name": "Productivity Growth",
+      "books": [
+        "Webs of Varok"
+      ]
+    },
+    {
+      "name": "Property Rights",
+      "books": [
+        "Autonomous",
+        "The Dispossessed",
+        "The Terraformers"
+      ]
+    },
+    {
+      "name": "Prosocial behavior incentives",
+      "books": [
+        "Stealing Worlds"
+      ]
+    },
+    {
+      "name": "Public Finance",
+      "books": [
+        "The Lost Cause"
+      ]
+    },
+    {
+      "name": "Public Goods",
+      "books": [
+        "Gamechanger",
+        "The Ministry for the Future"
+      ]
+    },
+    {
+      "name": "Public Infrastructure",
+      "books": [
+        "A Half-Built Garden"
+      ]
+    },
+    {
+      "name": "Public Sector Investment",
+      "books": [
+        "The Lost Cause"
+      ]
+    },
+    {
+      "name": "Public Sector Resource Management",
+      "books": [
+        "The Terraformers"
+      ]
+    },
+    {
+      "name": "Quantitative Easing",
+      "books": [
+        "The Ministry for the Future"
+      ]
+    },
+    {
+      "name": "Rationing",
+      "books": [
+        "Gamechanger"
+      ]
+    },
+    {
+      "name": "Real Estate Investment",
+      "books": [
+        "The Terraformers"
+      ]
+    },
+    {
+      "name": "Real Estate Valuation",
+      "books": [
+        "New York 2140"
+      ]
+    },
+    {
+      "name": "Reputation Economy",
+      "books": [
+        "Distraction"
+      ]
+    },
+    {
+      "name": "Resource Allocation",
+      "books": [
+        "Gamechanger",
+        "Our Shared Storm: A Movel of Five Climate Futures",
+        "Scholomance Trilogy",
+        "Stealing Worlds",
+        "The Caryatids",
+        "The Dispossessed",
+        "The Moon is a Harsh Mistress"
+      ]
+    },
+    {
+      "name": "Resource Scarcity",
+      "books": [
+        "Utopia Five"
+      ]
+    },
+    {
+      "name": "Scarcity",
+      "books": [
+        "Scholomance Trilogy"
+      ]
+    },
+    {
+      "name": "Schumpeterian Economics",
+      "books": [
+        "Makers"
+      ]
+    },
+    {
+      "name": "Securitization",
+      "books": [
+        "Another Now"
+      ]
+    },
+    {
+      "name": "Shadow Pricing",
+      "books": [
+        "Red Plenty"
+      ]
+    },
+    {
+      "name": "Shared Socioeconomic Pathways",
+      "books": [
+        "Our Shared Storm: A Movel of Five Climate Futures"
+      ]
+    },
+    {
+      "name": "Smart contracts",
+      "books": [
+        "Stealing Worlds"
+      ]
+    },
+    {
+      "name": "Social Capital",
+      "books": [
+        "Numbercaste"
+      ]
+    },
+    {
+      "name": "Social Credit System",
+      "books": [
+        "Gamechanger",
+        "Utopia Five"
+      ]
+    },
+    {
+      "name": "Social Democratic Economy",
+      "books": [
+        "2312"
+      ]
+    },
+    {
+      "name": "Social Justice Economics",
+      "books": [
+        "The Lost Cause"
+      ]
+    },
+    {
+      "name": "Social Network Analysis",
+      "books": [
+        "Numbercaste"
+      ]
+    },
+    {
+      "name": "Social Pressure",
+      "books": [
+        "The Dispossessed"
+      ]
+    },
+    {
+      "name": "Social Stratification",
+      "books": [
+        "Numbercaste"
+      ]
+    },
+    {
+      "name": "Social credit scoring",
+      "books": [
+        "Stealing Worlds"
+      ]
+    },
+    {
+      "name": "Socialist Calculation Debate",
+      "books": [
+        "Red Plenty"
+      ]
+    },
+    {
+      "name": "Steady State Economy",
+      "books": [
+        "Webs of Varok"
+      ]
+    },
+    {
+      "name": "Sufficiency Economics",
+      "books": [
+        "Scholomance Trilogy"
+      ]
+    },
+    {
+      "name": "Supply and Demand",
+      "books": [
+        "MetaGame"
+      ]
+    },
+    {
+      "name": "Surveillance Capitalism",
+      "books": [
+        "Utopia Five"
+      ]
+    },
+    {
+      "name": "Surveillance economy",
+      "books": [
+        "Stealing Worlds"
+      ]
+    },
+    {
+      "name": "Tax Haven Elimination",
+      "books": [
+        "The Ministry for the Future"
+      ]
+    },
+    {
+      "name": "Technical Innovation",
+      "books": [
+        "Distraction",
+        "Makers",
+        "New York 2140",
+        "The Caryatids"
+      ]
+    },
+    {
+      "name": "Technological Disruption",
+      "books": [
+        "Distraction"
+      ]
+    },
+    {
+      "name": "Transaction Cost Economics",
+      "books": [
+        "MetaGame"
+      ]
+    },
+    {
+      "name": "Treaty-Based Economic Associations",
+      "books": [
+        "2312"
+      ]
+    },
+    {
+      "name": "Universal Basic Services",
+      "books": [
+        "Gamechanger"
+      ]
+    },
+    {
+      "name": "Upward Mobility",
+      "books": [
+        "Numbercaste"
+      ]
+    },
+    {
+      "name": "Urban Migration",
+      "books": [
+        "New York 2140"
+      ]
+    },
+    {
+      "name": "Virtual currencies",
+      "books": [
+        "Stealing Worlds"
+      ]
+    },
+    {
+      "name": "Water Commons",
+      "books": [
+        "The Ministry for the Future"
+      ]
+    }
+  ]
+}
