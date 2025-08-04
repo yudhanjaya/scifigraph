@@ -25,8 +25,8 @@ This is largely meant for researchers, academics, and sci-fi enthusiasts who wan
 
 - **Academic Research**: Analyze economic themes across sci-fi literature
 - **Content Discovery**: Find books that explore specific economic concepts
-- **Knowledge Graph Analysis**: Build networks of books and concepts
-- **Data Visualization**: Create graphs showing relationships between literature and economics
+- **Knowledge Graph Analysis**: Build networks of books and concepts ([example](https://github.com/yudhanjaya/scifigraph/tree/main/tulip_files/tulip_graphs))
+- **Data Visualization**: Create graphs showing relationships between literature and economics ([example](https://github.com/yudhanjaya/scifigraph/blob/main/tulip_files/tulip_graphs/the_graph.png))
 - **Research Projects**: Support studies on economics in speculative fiction
 
 ## Installation
